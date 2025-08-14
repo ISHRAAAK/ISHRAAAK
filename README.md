@@ -1,7 +1,12 @@
 <!-- Dynamic Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=+I'm+MD+SHAMIUL+ISLAM+KHAN+ISHRAK;Tech+Enthusiast+%7C+Problem+Solver;Python+%7C+HTML+%7C+DBMS;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=I'm+MD+SHAMIUL+ISLAM+KHAN+ISHRAK;Tech+Enthusiast+%7C+Problem+Solver;Python+%7C+HTML+%7C+DBMS;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
 </h1>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile+Views&color=FF6F61&style=flat" alt="Profile Views" />
+</p>
 
 <!-- Colorful Wave Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f61&height=90&section=header" />
@@ -56,3 +61,4 @@
 
 <!-- Colorful Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6f61&height=90&section=footer" />
+
