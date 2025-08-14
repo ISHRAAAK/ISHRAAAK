@@ -1,6 +1,6 @@
 <!-- Dynamic Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Md.+Shamiul+Islam+Khan+Ishrak;Tech+Enthusiast+%7C+Developer+%7C+Problem+Solver;Python+%7C+React+%7C+Java+%7C+Database+Management;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+MD+SHAMIUL+ISLAM+KHAN+ISHRAK;Tech+Enthusiast+%7C+Problem+Solver;Python+%7C+React+%7C+Java+%7C+Database+Management;Always+Learning+%26+Exploring+New+Tech" alt="Typing Animation" />
 </h1>
 
 <!-- Colorful Wave Divider -->
@@ -8,7 +8,7 @@
 
 <!-- About Me -->
 ## 🧑‍💻 About Me  
-💡 Passionate about **Problem solving, and continuous learning**  
+💡 Passionate about **Technology, Problem solving, and continuous learning**  
 🏏 **Batsman & Wicketkeeper** for BRACU Cricket Club  
 🤝 Former member of **BRACU Monon Club** & **Robotics Club**  
 💼 Internship: **IT / Network Unit at BRAC Technology Division (2025)**  
