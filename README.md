@@ -8,10 +8,10 @@
 
 <!-- About Me -->
 ## 🧑‍💻 About Me  
-💡 Passionate about **problem solving, and continuous learning**  
+💡 Passionate about **Problem solving, and continuous learning**  
 🏏 **Batsman & Wicketkeeper** for BRACU Cricket Club  
 🤝 Former member of **BRACU Monon Club** & **Robotics Club**  
-💼 Internship: **IT / Network Support at BRAC Technology Division (2025)**  
+💼 Internship: **IT / Network Unit at BRAC Technology Division (2025)**  
 🔍 Interests: Robotics, Software Development, Data Analysis, Event Management  
 
 ---
@@ -36,7 +36,7 @@
 ✅ Communication & Leadership  
 ✅ Event Management  
 ✅ Photography & Sports Analysis  
-✅ Typing Speed: 30 WPM  
+✅ Quick learner
 
 ---
 
