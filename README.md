@@ -8,7 +8,7 @@
 
 <!-- About Me -->
 ## 🧑‍💻 About Me  
-💡 Passionate about **technology, problem solving, and continuous learning**  
+💡 Passionate about **problem solving, and continuous learning**  
 🏏 **Batsman & Wicketkeeper** for BRACU Cricket Club  
 🤝 Former member of **BRACU Monon Club** & **Robotics Club**  
 💼 Internship: **IT / Network Support at BRAC Technology Division (2025)**  
